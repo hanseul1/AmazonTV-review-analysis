@@ -2,6 +2,8 @@
 
 # Amazon TV Review data Analysis
 
+![02_빅데이터 기술](https://user-images.githubusercontent.com/33472435/75243468-4b567d80-580d-11ea-92d2-30330160f037.png)
+
 <img width="700" alt="캡처" src="https://user-images.githubusercontent.com/33472435/74835481-cd076080-5360-11ea-9e54-d85d332e8b0f.PNG">
 
 <img width="700" alt="캡처2" src="https://user-images.githubusercontent.com/33472435/74835486-ce388d80-5360-11ea-9984-400d7391832f.PNG">
